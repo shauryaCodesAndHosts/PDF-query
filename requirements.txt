@@ -402,5 +402,4 @@ xdg==5
 xkit==0.0.0
 yarl==1.9.4
 youtube-dl==2021.12.17
-yt-dlp @ https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz#sha256=3c68a8a34d28219a373c39b6210dfdacd3e9b1520c37bcd2a493eb2874c17cf0
 zipp==1.0.0
