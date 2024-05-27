@@ -4,7 +4,7 @@ from pathlib import Path
 from typing import Annotated, List
 import os 
 from pydantic import BaseModel
-import pymupdf # used built in pdf reader of llamaindex 
+#import pymupdf - used built in pdf reader of llamaindex 
 from fastapi.responses import JSONResponse
 from huggingface_hub import login
 from llama_index.llms.huggingface import HuggingFaceInferenceAPI
