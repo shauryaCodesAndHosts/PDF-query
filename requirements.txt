@@ -50,7 +50,6 @@ comm==0.2.2
 confection==0.1.4
 confluent-kafka==2.3.0
 cryptography==42.0.5
-cupshelpers==1.0
 cycler==0.12.1
 cymem==2.0.8
 dask==2022.10.2
