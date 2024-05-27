@@ -1,11 +1,8 @@
-# PDF-query
-Here's a Markdown template for your GitHub README:
 
 ```markdown
-# Project Name
+# PDF-query
 
-Short description or introduction of your project.
-
+A simple web application that can help you query the documents you have uploaded in pdf form.
 ## Installation
 
 To install the required dependencies, run the following command:
