@@ -1,5 +1,4 @@
 
-```markdown
 # PDF-query
 
 A simple web application that can help you query the documents you have uploaded in pdf form.
@@ -56,6 +55,6 @@ uvicorn main:app --reload
 
 - Swagger Documentation: [http://localhost:8000/docs](http://localhost:8000/docs)
 - GUI: [http://localhost:8000/render](http://localhost:8000/render)
-```
+
 
 Replace "Project Name" with the actual name of your project and update the description and endpoints accordingly. This template provides a structured layout for your README, including installation instructions, usage details, API endpoints, and documentation links.
