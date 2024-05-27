@@ -39,7 +39,6 @@ cffi==1.16.0
 chardet==4.0.0
 charset-normalizer==3.3.2
 checksumdir==1.2.0
-chrome-gnome-shell==0.0.0
 click==8.1.7
 cloudpathlib==0.16.0
 cloudpickle==2.2.1
