@@ -18,6 +18,11 @@ To run the application, execute:
 uvicorn main:app --reload
 ```
 
+## Video tutorial
+
+[![Video Title](https://img.youtube.com/vi/2QSR7MMkum4/0.jpg)](https://www.youtube.com/watch?v=2QSR7MMkum4)
+
+
 ### API Endpoints
 
 - **Root Endpoint**: Check if the server is up and running.
