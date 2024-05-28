@@ -36,10 +36,7 @@ HF_TOKEN = ""
 queryEngine =  ""
 
 #enabling cors for using with react development server
-origins = [
-    "http://localhost",
-    "http://localhost:3000",
-]
+origins = ["*"]
 
 app.add_middleware(
     CORSMiddleware,
